@@ -51,7 +51,7 @@ const Detail = () => {
   console.log(details);
   return (
     <div className="mt-12 font-nunito text-vDarkBlueDark dark:text-white bg-vLightGray dark:bg-vDarkBlueDark">
-      <a href="/">
+      <a href="https://mateuszem88.github.io/front-mentor-countries-api/">
         {" "}
         <button className="p-2 w-28 ml-12 bg-white dark:bg-darkBlue shadow-md rounded-md">
           ← Back
