@@ -51,12 +51,13 @@ const Detail = () => {
   console.log(details);
   return (
     <div className="mt-12 font-nunito text-vDarkBlueDark dark:text-white bg-vLightGray dark:bg-vDarkBlueDark">
-      <button
-        className="p-2 w-28 ml-12 bg-white dark:bg-darkBlue shadow-md rounded-md"
-        onClick={goBackToDashboard}
-      >
-        ← Back
-      </button>
+      <a href="https://mateuszem88.github.io/front-mentor-countries-api/">
+        {" "}
+        <button className="p-2 w-28 ml-12 bg-white dark:bg-darkBlue shadow-md rounded-md">
+          ← Back
+        </button>
+      </a>
+
       <div className="flex flex-col md:flex-row items-center justify-center">
         <img className="m-8" src={details.flagURL} alt="" />
         <div className="w-4/5 md:w-1/5">
