@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-mentor-countries-api/static/css/main.29670489.css",
+    "main.js": "/front-mentor-countries-api/static/js/main.ef2d75eb.js",
+    "index.html": "/front-mentor-countries-api/index.html",
+    "main.29670489.css.map": "/front-mentor-countries-api/static/css/main.29670489.css.map",
+    "main.ef2d75eb.js.map": "/front-mentor-countries-api/static/js/main.ef2d75eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29670489.css",
+    "static/js/main.ef2d75eb.js"
+  ]
+}
