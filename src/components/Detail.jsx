@@ -57,7 +57,10 @@ const Detail = () => {
           ← Back
         </button>
       </a>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 797d03f175752933b13e5c724589081cc7af68cb
       <div className="flex flex-col md:flex-row items-center justify-center">
         <img className="m-8" src={details.flagURL} alt="" />
         <div className="w-4/5 md:w-1/5">
